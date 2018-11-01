@@ -1,0 +1,24 @@
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.exe.config
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.exe
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.pdb
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.xml
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.helpPage.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.LoginError.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.loginScreen.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.Resources.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.parentVerification.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.verifyError.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.vbproj.GenerateResource.Cache
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.exe
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.xml
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.pdb
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.bookingForm.resources
+Q:\Term 1\Event Driven Programming\Wage_Calculator\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.invoiceForUser.resources
+G:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.exe.config
+G:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.exe
+G:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.xml
+G:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.pdb
+F:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\bin\Debug\studentBookingProgram.exe.config
+F:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.exe
+F:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.xml
+F:\College Work\Term 1\Event Driven Programming\studentBookingProgram\studentBookingProgram\obj\Debug\studentBookingProgram.pdb
